@@ -1,4 +1,5 @@
 # Introduction
+`abandoned`
 This is a YOLOV7 based APEX Aimbot
 ![apex](sample/apex.jpg)
 `Note: This is an educational purposes only software, do not use it for any commercial or illegal purposes, I will not be responsible for any unauthorized usage of this software` 
